@@ -1,0 +1,5 @@
+/uploads/
+/media/
+/db.sqlite3
+/docker-compose.yml
+/nginx/
